@@ -1,20 +1,14 @@
 {
-    "name": "Vinothmallow/ContactUs",
-    "description": "Simple contact us form",
+    "name": "vinothmallow/contactus",
+    "description": "simple contact us form",
     "type": "project",
-    "require": {
-    },
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Vinothkumar Veeramani",
-            "email": "vinothkumar@mallow-tech.com"
-        }
-    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {},
     "autoload": {
         "psr-4": {
-            "VinothMallow\\ContactUs\\": "src/"
+            "vinothmallow\\contactus\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }	
 }

@@ -3,7 +3,7 @@
     "description": "Simple contact us form",
     "type": "project",
     "require": {
-        "laravel/laravel": "6.*"
+    	"laravel/framework": "^6.*"
     },
     "license": "MIT",
     "authors": [

@@ -1,0 +1,21 @@
+{
+    "name": "Vinothmallow/ContactUs",
+    "description": "Simple contact us form",
+    "type": "project",
+    "require": {
+        "laravel/laravel": "6.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vinothkumar Veeramani",
+            "email": "vinothkumar@mallow-tech.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "VinothMallow\\ContactUs\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
